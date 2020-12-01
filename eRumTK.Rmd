@@ -19,6 +19,7 @@ class: inverse, center, middle
 ```{r, out.width = "600px", echo=FALSE}
 knitr::include_graphics("George_Desk.gif")
 ```
+
 ---
 ##Set up an account with [AWS](https://aws.amazon.com/)
 ```{r, out.width = "650px", echo=FALSE, fig.align = 'center'}
