@@ -15,6 +15,7 @@ output:
 class: inverse, center, middle
 ##RStudio Server on AWS! 🤠
 ###Get Started 🤫😴
+
 ```{r, out.width = "600px", echo=FALSE}
 knitr::include_graphics("George_Desk.gif")
 ```
