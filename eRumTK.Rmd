@@ -30,7 +30,7 @@ knitr::include_graphics("StartVPC.png")
 ```
 ---
 class: inverse, center, middle
-###Let us learn all of Elain's moves!!! 😃🎵🎶
+###Let us learn all of Elaine's moves!!! 😃🎵🎶
 
 ```{r, out.width = "300px", echo=FALSE}
 knitr::include_graphics("ElainDanceI.png")
@@ -102,7 +102,7 @@ knitr::include_graphics("RStudioInCloud.png")
 ```
 ---
 class: inverse, center, middle
-###We know how to do Elain's Dance!!! 😃🎵🎶
+###We know how to do Elaine's Dance!!! 😃🎵🎶
 
 ```{r, out.width = "500px", echo=FALSE}
 knitr::include_graphics("Elain_dance.gif")
